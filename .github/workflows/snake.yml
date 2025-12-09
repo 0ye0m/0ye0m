@@ -2,28 +2,50 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"    # every 6 hours
   workflow_dispatch:
+
+permissions:
+  contents: write   # only allow writing repo contents which is required to push the generated file
+
+concurrency:
+  group: generate-snake
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Ensure output directory exists
+        run: |
+          mkdir -p output
 
       - name: Generate Snake Animation
+        # Platane/snk generates an animated snake.svg for contribution graph
         uses: Platane/snk@v3
         with:
           github_user_name: 0ye0m
           outputs: |
             output/snake.svg
 
-      - name: Commit & Push Snake
+      - name: Show generated file (for debug)
+        run: |
+          ls -la output
+          if [ -f output/snake.svg ]; then echo "snake.svg created"; else echo "snake.svg not found"; fi
+
+      - name: Commit & Push Snake (only if changed)
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: "GitHub Actions"
-          author_email: "actions@github.com"
+          author_name: "github-actions[bot]"
+          author_email: "41898282+github-actions[bot]@users.noreply.github.com"
           message: "Generated snake animation"
           add: "output/snake.svg"
+          # push: true   # default behaviour is to push; keep default
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
