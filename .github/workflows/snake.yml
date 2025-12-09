@@ -1,30 +1,42 @@
 name: Generate Snake
 
+# Run every 6 hours (UTC). Removed manual trigger per your request.
 on:
   schedule:
-    - cron: "0 */6 * * *"    # every 6 hours
-  workflow_dispatch:
+    - cron: "0 */6 * * *"    # every 6 hours (UTC)
 
+# Grant the permissions needed to push content and publish to Pages
 permissions:
-  contents: write   # only allow writing repo contents which is required to push the generated file
+  contents: write    # for pushing files/branches
+  pages: write       # for publishing to GitHub Pages (actions-gh-pages uses this)
+  id-token: write    # sometimes required for pages action (keeps compatibility)
 
 concurrency:
   group: generate-snake
   cancel-in-progress: true
 
+env:
+  OUTPUT_DIR: output
+  OUTPUT_FILE: output/snake.svg
+  PUBLISH_BRANCH: gh-pages
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repository (full fetch)
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
       - name: Ensure output directory exists
         run: |
-          mkdir -p output
+          mkdir -p "${OUTPUT_DIR}"
+          ls -la "${OUTPUT_DIR}" || true
 
       - name: Generate Snake Animation
         # Platane/snk generates an animated snake.svg for contribution graph
@@ -32,20 +44,71 @@ jobs:
         with:
           github_user_name: 0ye0m
           outputs: |
-            output/snake.svg
+            ${OUTPUT_FILE}
 
       - name: Show generated file (for debug)
         run: |
-          ls -la output
-          if [ -f output/snake.svg ]; then echo "snake.svg created"; else echo "snake.svg not found"; fi
+          echo "Contents of ${OUTPUT_DIR}:"
+          ls -la "${OUTPUT_DIR}"
+          if [ -f "${OUTPUT_FILE}" ]; then
+            echo "✓ ${OUTPUT_FILE} created"
+            ls -lh "${OUTPUT_FILE}"
+          else
+            echo "✗ ${OUTPUT_FILE} not found"
+            exit 1
+          fi
 
-      - name: Commit & Push Snake (only if changed)
+      - name: Add generated file to git index (prepare for change detection)
+        run: |
+          git add "${OUTPUT_FILE}" || true
+          git status --porcelain --untracked-files=no || true
+
+      - name: Detect changes (will skip commit if nothing changed)
+        id: changes
+        run: |
+          # If there are staged changes, git diff --cached --quiet will return non-zero.
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No changes detected to commit."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Changes detected — will commit and push."
+          fi
+
+      - name: Upload generated snake as workflow artifact (preview in Actions UI)
+        uses: actions/upload-artifact@v4
+        with:
+          name: generated-snake
+          path: ${{ env.OUTPUT_FILE }}
+
+      - name: Commit & Push Snake to default branch (only if changed)
+        if: steps.changes.outputs.changed == 'true'
         uses: EndBug/add-and-commit@v9
         with:
           author_name: "github-actions[bot]"
           author_email: "41898282+github-actions[bot]@users.noreply.github.com"
-          message: "Generated snake animation"
-          add: "output/snake.svg"
-          # push: true   # default behaviour is to push; keep default
+          message: |
+            Generated snake animation — updated at $(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          add: "${{ env.OUTPUT_FILE }}"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to GitHub Pages (publish output/ to gh-pages)
+        if: steps.changes.outputs.changed == 'true'   # only deploy when file changed
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          publish_branch: ${{ env.PUBLISH_BRANCH }}
+          keep_files: false
+          # Optional: customize commit message for gh-pages updates
+          commit_message: "chore(pages): update generated snake — ${{ github.run_id }}"
+
+      - name: Finished
+        run: |
+          echo "Workflow finished."
+          if [ "${{ steps.changes.outputs.changed }}" = "true" ]; then
+            echo "A commit was pushed and GitHub Pages was updated (branch: ${PUBLISH_BRANCH})."
+          else
+            echo "No commit necessary (file unchanged)."
+          fi
