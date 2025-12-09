@@ -1,111 +1,99 @@
-<!-- Header -->
-<h1 align="center">🌌 Hey, I'm Om — <code>0ye0m</code></h1>
-<h3 align="center">Full-Stack Developer • ML/AI Enthusiast • 5x Hackathon Winner 🚀</h3>
+<h1 align="center">👋 Hey, I'm Om — <code>0ye0m</code></h1>
+<h3 align="center">Full-Stack Developer • 5x Hackathon Winner • ML & Cloud Enthusiast 🚀</h3>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00E7FF&size=24&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Machine+Learning+%26+AI+Enthusiast;Blockchain+%7C+DevOps+%7C+Cloud;Always+Building+Cool+Stuff+🔥;Love+to+Automate+Everything!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=40c8ff&size=24&center=true&width=650&lines=Full-Stack+Developer;ML+%26+AI+Enthusiast;Cloud+%7C+DevOps+%7C+Blockchain;Always+Learning+New+Tech!">
 </p>
 
 ---
 
-## 👨‍💻 **About Me**
-- 🔥 5× Hackathon Winner (Frontend + Backend + ML + Cloud)  
-- 🧠 Specializing in Full-Stack Development and Machine Learning  
-- ⛓️ Working on Blockchain-Based Exam Proctoring System  
-- 🧩 Creates automation tools, AI utilities, and research projects  
-- 🚀 Loves React, Node.js, Cloud, ML, and System Design  
-- 🎯 Goal: Become a world-class developer with deep tech expertise  
+## 🚀 About Me
+- 👨‍💻 Full-Stack & ML/AI developer  
+- 🏆 5X Hackathon Winner  
+- 🔗 Building Blockchain Exam-Proctoring System  
+- 🔥 Love React, Node.js, ML, DevOps, Cloud  
+- 🎯 Goal: Build intelligent automation systems  
 
 ---
 
-# 🛠 **Tech Stack**
+# 🛠 Tech Stack
 
-### 🌐 **Frontend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux">
-</p>
+### 🌐 Frontend  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux"/>
 
-### ⚙️ **Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask">
-</p>
+### ⚙ Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask"/>
 
-### 🧠 **AI / ML**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch">
-  <img height="48" src="https://img.icons8.com/color/512/numpy.png"/>
-  <img height="48" src="https://img.icons8.com/color/512/pandas.png"/>
-</p>
+### 🤖 AI / ML  
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>  
+<img src="https://img.icons8.com/color/512/numpy.png" height="40"/>  
+<img src="https://img.icons8.com/color/512/pandas.png" height="40"/>
 
-### 🗄️ **Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase">
-</p>
+### 🗄 Databases  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase"/>
 
-### ☁️ **Cloud / DevOps**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,github,git,linux">
-</p>
+### ☁ DevOps + Cloud  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,github,git,linux"/>
 
-### 🧰 **Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,powershell,bash">
-</p>
+### 🧰 Tools  
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,bash,powershell"/>
 
 ---
 
-# 📊 **GitHub Statistics**
+# 📊 GitHub Stats (WORKING)
 
-### ⭐ **Main Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0ye0m&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0ye0m&theme=tokyonight&show_icons=true&hide_border=true"/>
 </p>
 
-### 📚 **Top Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ye0m&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ye0m&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-### 🔥 **Contribution Streak**
+---
+
+# 🔥 Streak Stats (WORKING)
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=0ye0m&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=0ye0m&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 **GitHub Achievements**
+# 🏆 Achievements (WORKING)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0ye0m&theme=discord&margin-w=10&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=0ye0m&theme=algolia&no-bg=true&no-frame=true"/>
 </p>
 
 ---
 
-# 🚀 **Featured Projects**
-
-### 🔥 **1. Blockchain-Based Exam Proctoring System**
-Solidity + Hardhat + DevDock AI + React • Secure & decentralized proctoring.
-
-### 📘 **2. Book Management System (MERN + Axios)**
-Full CRUD system with authentication, reviews, and beautiful UI.
-
-### 🌤 **3. AI Weather Prediction**
-ARIMA-based forecasting with visualization dashboards.
-
-### 🌿 **4. Leaf Segmentation (GUI + SAM 2.1 GPU)**
-Hyperspectral + RGB segmentation using UNet/SAM.
-
----
-
-# 🌐 **Connect With Me**
-<p>
-<a href="https://github.com/0ye0m"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
-<a href="https://linkedin.com/in/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
-<a href="mailto:om@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0ye0m/0ye0m/output/snake.svg" />
 </p>
 
 ---
 
-# 🐍 **Animated Contribution Snake**
-```md
-![snake gif](https://github.com/0ye0m/0ye0m/blob/output/github-contribution-grid-snake.svg)
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/om-mandwade/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:mandwadeom@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://github.com/0ye0m">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+
+---
+
+## 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=0ye0m&color=blue)
+
+<h3 align="center">✨ Thanks for checking out my profile! ✨</h3>
+
