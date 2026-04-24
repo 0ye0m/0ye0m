@@ -5,7 +5,7 @@
 <!-- Dynamic Typing SVG (from DenverCoder1) [citation:4] -->
 <div align="center">
   <a href="https://github.com/0ye0m">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+%7C+DevOps+Engineer;AI+%7C+ML+Builder;Hackathon+Winner;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Spring+Boot" alt="Typing SVG" />
   </a>
 </div>
 
