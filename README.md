@@ -60,18 +60,18 @@ Industrial monitoring GUI · Pandas/NumPy pipelines · Matplotlib dashboards · 
 ### Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0ye0m&show_icons=true&theme=github_dark&hide_border=true&title_color=00C8FF&icon_color=00C8FF&text_color=ffffff&bg_color=0d1117" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0ye0m&show_icons=true&theme=github_dark&hide_border=true&title_color=00C8FF&icon_color=00C8FF&text_color=ffffff&bg_color=0d1117" height="160" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=0ye0m&theme=github-dark&hide_border=true&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF&background=0d1117" height="160" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ye0m&layout=compact&theme=github_dark&hide_border=true&title_color=00C8FF&text_color=ffffff&bg_color=0d1117" height="130" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0ye0m&layout=compact&theme=github_dark&hide_border=true&title_color=00C8FF&text_color=ffffff&bg_color=0d1117" height="130" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/0ye0m/0ye0m/main/output/snake.svg" alt="contribution snake" />
+  <img src="https://raw.githubusercontent.com/0ye0m/0ye0m/main/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 <div align="center">
