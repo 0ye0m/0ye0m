@@ -9,6 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-mandwade/)
 [![Gmail](https://img.shields.io/badge/mandwadeom@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mandwadeom@gmail.com)
 [![GitHub](https://img.shields.io/badge/0ye0m-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/0ye0m)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/om_mandwade_16)
+[![Codolio](https://img.shields.io/badge/Codolio-00C8FF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNHYtNEg3bDUtOHY0aDRsLTUgOHoiLz48L3N2Zz4=&logoColor=white)](https://codolio.com/profile/om-mandwade-7)
 
 </div>
 
@@ -41,17 +43,17 @@
 |---|---|---|
 | [Smartick](https://github.com/0ye0m/smartick) | QR-based attendance · 300+ concurrent entries · duplicate-proof | React · Node.js · Express · MongoDB |
 | [KaarigarConnect](https://github.com/0ye0m/KaarigarConnect) | Skilled workers marketplace · 35% faster DB queries | Next.js · PostgreSQL · TypeScript |
-| Medicinal Plant Health ID | ML plant disease detection · 92% accuracy · <2 s inference | Python · Scikit-Learn · Streamlit |
+| [Tulsi Health Analysis](https://github.com/0ye0m/tulsi-health-analysis) | ML plant disease detection · 92% accuracy · <2s inference | Python · Scikit-Learn · Streamlit |
 
 ---
 
 ### Experience
 
-**Software Developer Intern — Harihar Tech**  
-Built scalable REST APIs · ReactJS · CI/CD (Docker + Jenkins + AWS) · 45% better deployment reliability
+**Software Developer Intern — Harihar Tech** *(May 2025 – Present)*  
+Scalable REST APIs · ReactJS + Next.js · CI/CD (Docker + Jenkins + AWS) · 45% fewer deployment errors
 
-**Research Intern — JNARDDC, Ministry of Mines**  
-Industrial monitoring GUI · Pandas/NumPy analytics · Matplotlib dashboards · 40% less manual reporting
+**Research Intern — JNARDDC, Ministry of Mines** *(Jan – Apr 2024)*  
+Industrial monitoring GUI · Pandas/NumPy pipelines · Matplotlib dashboards · 40% less manual reporting
 
 ---
 
@@ -69,7 +71,7 @@ Industrial monitoring GUI · Pandas/NumPy analytics · Matplotlib dashboards · 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/0ye0m/0ye0m/output/snake.svg" alt="contribution snake" />
+  <img src="https://raw.githubusercontent.com/0ye0m/0ye0m/main/output/snake.svg" alt="contribution snake" />
 </div>
 
 <div align="center">
