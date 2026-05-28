@@ -71,7 +71,7 @@ Industrial monitoring GUI · Pandas/NumPy pipelines · Matplotlib dashboards · 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/0ye0m/0ye0m/main/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+ <img src="https://raw.githubusercontent.com/0ye0m/0ye0m/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <div align="center">
