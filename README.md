@@ -1,79 +1,162 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=2500&pause=3000&color=00C8FF&center=true&vCenter=true&width=520&lines=Om+Mandwade" alt="Om Mandwade" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=2500&pause=3000&color=00C8FF&center=true&vCenter=true&width=600&lines=Om+Mandwade;Full+Stack+Developer;Cloud+%7C+DevOps+%7C+ML" alt="Typing Animation" />
 
-**Full Stack Developer · Cloud · DevOps · ML — building systems that scale.**
+### Full Stack Developer · Cloud · DevOps · ML
+
+
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-mandwade/)
-[![Gmail](https://img.shields.io/badge/mandwadeom@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mandwadeom@gmail.com)
-[![GitHub](https://img.shields.io/badge/0ye0m-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/0ye0m)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mandwadeom@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/0ye0m)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/om_mandwade_16)
-[![Codolio](https://img.shields.io/badge/Codolio-00C8FF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNHYtNEg3bDUtOHY0aDRsLTUgOHoiLz48L3N2Zz4=&logoColor=white)](https://codolio.com/profile/om-mandwade-7)
+[![Codolio](https://img.shields.io/badge/Codolio-00C8FF?style=flat-square)](https://codolio.com/profile/om-mandwade-7)
 
 </div>
 
 ---
 
-```json
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00C8FF&height=2&section=header" width="100%"/>
+
+## About Me
+
+```yaml
 {
-  "name"      : "Om Pramod Mandwade",
-  "education" : "B.Tech IT · RCOEM Nagpur · GPA 8.6",
-  "currently" : "Software Developer Intern @ Harihar Tech",
-  "interests" : ["Scalable Backends", "Cloud Native", "DevOps", "ML Systems"]
+  "name": "Om Pramod Mandwade",
+  "education": "B.Tech IT · RCOEM Nagpur",
+  "cgpa": 8.6,
+  "role": "Software Developer Intern @ Harihar Tech",
+
+  "focus": {
+     "Scalable Backend Systems",
+     "Cloud Native Applications",
+     "DevOps Automation",
+     "ML Systems"
+  }
 }
 ```
 
 ---
 
-### Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C8FF,100:0d1117&height=2&section=header" width="100%"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,java,fastapi&theme=dark&perline=7" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,aws,jenkins,git&theme=dark&perline=7" />
-</p>
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,java,spring,python,fastapi,mongodb,postgres,mysql,docker,kubernetes,aws,jenkins,git,linux&theme=dark" />
+
+</div>
 
 ---
 
-### Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00C8FF&height=2&section=header" width="100%"/>
 
-| Project | What it does | Stack |
+## Projects
+
+| Project | Description | Tech |
 |---|---|---|
-| [Smartick](https://github.com/0ye0m/smartick) | QR-based attendance · 300+ concurrent entries · duplicate-proof | React · Node.js · Express · MongoDB |
-| [KaarigarConnect](https://github.com/0ye0m/KaarigarConnect) | Skilled workers marketplace · 35% faster DB queries | Next.js · PostgreSQL · TypeScript |
-| [Tulsi Health Analysis](https://github.com/0ye0m/tulsi-health-analysis) | ML plant disease detection · 92% accuracy · <2s inference | Python · Scikit-Learn · Streamlit |
+| [Smartick](https://github.com/0ye0m/smartick) | QR-based attendance system handling 300+ concurrent scans with duplicate prevention | React · Node.js · Express · MongoDB |
+| [KaarigarConnect](https://github.com/0ye0m/KaarigarConnect) | Marketplace platform connecting skilled workers with customers using optimized PostgreSQL queries | Next.js · PostgreSQL · TypeScript |
+| [Tulsi Health Analysis](https://github.com/0ye0m/tulsi-health-analysis) | ML-powered plant disease detection achieving 92% accuracy with real-time predictions | Python · Scikit-Learn · Streamlit |
 
 ---
 
-### Experience
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C8FF,100:0d1117&height=2&section=header" width="100%"/>
 
-**Software Developer Intern — Harihar Tech** *(May 2025 – Present)*  
-Scalable REST APIs · ReactJS + Next.js · CI/CD (Docker + Jenkins + AWS) · 45% fewer deployment errors
+## Experience
 
-**Research Intern — JNARDDC, Ministry of Mines** *(Jan – Apr 2024)*  
-Industrial monitoring GUI · Pandas/NumPy pipelines · Matplotlib dashboards · 40% less manual reporting
+### Software Developer Intern — Harihar Tech
+*May 2025 – Present*
 
----
-
-### Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0ye0m&show_icons=true&theme=github_dark&hide_border=true&title_color=00C8FF&icon_color=00C8FF&text_color=ffffff&bg_color=0d1117" height="160" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=0ye0m&theme=github-dark&hide_border=true&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF&background=0d1117" height="160" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0ye0m&layout=compact&theme=github_dark&hide_border=true&title_color=00C8FF&text_color=ffffff&bg_color=0d1117" height="130" alt="Top Languages" />
-</div>
+- Building scalable REST APIs
+- Working with ReactJS + Next.js
+- CI/CD using Docker + Jenkins + AWS
+- Reduced deployment issues by 45%
 
 ---
 
+### Research Intern — JNARDDC, Ministry of Mines
+*Jan 2024 – Apr 2024*
+
+- Developed industrial monitoring GUI
+- Built Pandas/NumPy automation pipelines
+- Created analytical dashboards using Matplotlib
+- Reduced manual reporting effort by 40%
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00C8FF&height=2&section=header" width="100%"/>
+
+## GitHub Analytics
+
 <div align="center">
- <img src="https://raw.githubusercontent.com/0ye0m/0ye0m/output/github-contribution-grid-snake-dark.svg" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0ye0m&show_icons=true&theme=github_dark&hide_border=true&title_color=00C8FF&icon_color=00C8FF&text_color=ffffff&bg_color=0d1117" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=0ye0m&theme=github-dark&hide_border=true&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF&background=0d1117" height="165"/>
+
 </div>
 
 <div align="center">
-  <sub>Open for · Internships · Hackathons · Collaborations · Open Source</sub>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0ye0m&layout=compact&theme=github_dark&hide_border=true&title_color=00C8FF&text_color=ffffff&bg_color=0d1117" height="140"/>
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C8FF,100:0d1117&height=2&section=header" width="100%"/>
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0ye0m&theme=github-compact&hide_border=true&bg_color=0d1117&color=00C8FF&line=00C8FF&point=ffffff" width="95%"/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/0ye0m/0ye0m/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## Current Focus
+
+```bash
+> learning
+Kafka · Kubernetes · System Design
+
+> building
+Scalable backend systems
+
+> open_to
+Internships · Collaborations · Open Source
+```
+
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Backend-Engineering-00C8FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud-AWS-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20To-Internships-00C8FF?style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+### “Build systems that people can depend on.”
+
 </div>
