@@ -37,7 +37,7 @@
   username: "0ye0m",
   role: "Full Stack Developer",
   education: [
-    "B.Tech IT — RCOEM Nagpur (GPA 8.24)",
+    "B.Tech IT — RCOEM Nagpur (GPA 8.6)",
     "Diploma IT — Govt Polytechnic Nagpur (92.85%)"
   ],
   currentlyWorkingAt: "Software Developer Intern — Harihar Tech",
