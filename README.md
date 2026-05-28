@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=2500&pause=3000&color=00C8FF&center=true&vCenter=true&width=600&lines=Om+Mandwade;Full+Stack+Developer;Cloud+%7C+DevOps+%7C+ML" alt="Typing Animation" />
@@ -16,9 +17,8 @@
 
 </div>
 
----
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00C8FF&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00C8FF,100:0d1117&height=3&section=header" width="100%"/>
 
 ## About Me
 
@@ -38,9 +38,9 @@
 }
 ```
 
----
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C8FF,100:0d1117&height=2&section=header" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00C8FF,100:0d1117&height=3&section=header" width="100%"/>
 
 ## Tech Stack
 
@@ -50,9 +50,9 @@
 
 </div>
 
----
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00C8FF&height=2&section=header" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00C8FF,100:0d1117&height=3&section=header" width="100%"/>
 
 ## Projects
 
@@ -62,9 +62,9 @@
 | [KaarigarConnect](https://github.com/0ye0m/KaarigarConnect) | Marketplace platform connecting skilled workers with customers using optimized PostgreSQL queries | Next.js · PostgreSQL · TypeScript |
 | [Tulsi Health Analysis](https://github.com/0ye0m/tulsi-health-analysis) | ML-powered plant disease detection achieving 92% accuracy with real-time predictions | Python · Scikit-Learn · Streamlit |
 
----
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C8FF,100:0d1117&height=2&section=header" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00C8FF,100:0d1117&height=3&section=header" width="100%"/>
 
 ## Experience
 
@@ -76,7 +76,7 @@
 - CI/CD using Docker + Jenkins + AWS
 - Reduced deployment issues by 45%
 
----
+
 
 ### Research Intern — JNARDDC, Ministry of Mines
 *Jan 2024 – Apr 2024*
@@ -86,9 +86,8 @@
 - Created analytical dashboards using Matplotlib
 - Reduced manual reporting effort by 40%
 
----
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00C8FF&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00C8FF,100:0d1117&height=3&section=header" width="100%"/>
 
 ## GitHub Analytics
 
@@ -106,9 +105,9 @@
 
 </div>
 
----
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C8FF,100:0d1117&height=2&section=header" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00C8FF,100:0d1117&height=3&section=header" width="100%"/>
 
 ## Contribution Graph
 
@@ -118,7 +117,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00C8FF,100:0d1117&height=3&section=header" width="100%"/>
 
 ## Contribution Snake
 
@@ -128,7 +127,9 @@
 
 </div>
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00C8FF,100:0d1117&height=3&section=header" width="100%"/>
+
 
 ## Current Focus
 
@@ -143,7 +144,7 @@ Scalable backend systems
 Internships · Collaborations · Open Source
 ```
 
----
+
 
 <div align="center">
 
@@ -153,10 +154,11 @@ Internships · Collaborations · Open Source
 
 </div>
 
----
+
 
 <div align="center">
 
 ### “Build systems that people can depend on.”
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00C8FF,100:0d1117&height=3&section=header" width="100%"/>
