@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=2500&pause=3000&color=00C8FF&center=true&vCenter=true&width=600&lines=Om+Mandwade;Full+Stack+Developer;Cloud+%7C+DevOps+%7C+ML" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=2500&pause=3000&color=00C8FF&center=true&vCenter=true&width=600&lines=Om+Pramod+Mandwade;Full+Stack+Developer;Cloud+%7C+DevOps+%7C+ML" alt="Typing Animation" />
 
 ### Full Stack Developer · Cloud · DevOps · ML
 
