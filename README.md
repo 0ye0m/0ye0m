@@ -141,7 +141,7 @@ Kafka · Kubernetes · System Design
 Scalable backend systems
 
 > open_to
-Internships · Collaborations · Open Source
+Jobs · Collaborations · Open Source
 ```
 
 
@@ -150,7 +150,7 @@ Internships · Collaborations · Open Source
 
 <img src="https://img.shields.io/badge/Backend-Engineering-00C8FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cloud-AWS-181717?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20To-Internships-00C8FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20To-Jobs-00C8FF?style=for-the-badge" />
 
 </div>
 
