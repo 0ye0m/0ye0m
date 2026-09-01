@@ -89,46 +89,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00C8FF,100:0d1117&height=3&section=header" width="100%"/>
 
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0ye0m&show_icons=true&theme=github_dark&hide_border=true&title_color=00C8FF&icon_color=00C8FF&text_color=ffffff&bg_color=0d1117" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=0ye0m&theme=github-dark&hide_border=true&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF&background=0d1117" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0ye0m&layout=compact&theme=github_dark&hide_border=true&title_color=00C8FF&text_color=ffffff&bg_color=0d1117" height="140"/>
-
-</div>
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00C8FF,100:0d1117&height=3&section=header" width="100%"/>
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0ye0m&theme=github-compact&hide_border=true&bg_color=0d1117&color=00C8FF&line=00C8FF&point=ffffff" width="95%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00C8FF,100:0d1117&height=3&section=header" width="100%"/>
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/0ye0m/0ye0m/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00C8FF,100:0d1117&height=3&section=header" width="100%"/>
 
 
 ## Current Focus
