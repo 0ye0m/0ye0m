@@ -27,7 +27,6 @@
   "name": "Om Pramod Mandwade",
   "education": "B.Tech IT · RCOEM Nagpur",
   "cgpa": 8.6,
-  "role": "Software Developer Intern @ Harihar Tech",
 
   "focus": {
      "Scalable Backend Systems",
